@@ -1,5 +1,8 @@
 # Simple password generator
 
+Author : Fadi Zaher
+Programing language: python
+
 GUI that allows user to enter number of digits and generate a password.
 password can be : chars, numbers, special characters (special characters only as second pick)
 
